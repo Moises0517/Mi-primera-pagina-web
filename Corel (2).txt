@@ -1,0 +1,49 @@
+<p> <b> <font size=3> <p align="center"> <font size=7> <font face="AR CHRISTY"> <font color="#641E16"> SUMERGETE EN EL MUNDO DE COREL DRAW </font> </font> </font> </font> </b> </p>
+ <br>
+<p> <b> <font size=5> <p align="center"> <font size=10> <font color="#000000"> <font face="Freestyle Script"> Herramienta de relleno </font> </font> </font> </font> </b> </p>
+<body topmargin=70 leftmargin=70 marginheight=50 marginwidth=130>
+ <br> 
+<body background="imagenes/f1.jpg" width="244450" heigth="244450">
+<p align="center"> <font size=5> CorelDRAW Rellenos permite aplicar distintos tipos de rellenos a los objetos. Si haces clic en la herramienta Relleno, verás que muestra un menú con varios iconos correspondientes 
+a los distintos rellenos que puedes aplicarle a un objeto. </font> </p>
+ <br>
+ </br>
+<center> <table bgcolor="#EAECEE" width="500" height="200" border="5" bordercolor="#CB4335 "> 
+<tr>
+<td> <center> Nombre </td>
+<td> <center> Descripcion </td>
+<td> <center> Imagen </td>
+</tr>
+<tr>
+<td> <center> Relleno Uniforme  </td>
+<td> <center> Seleccionando los objetos y haciendo un clic sobre un color de la paleta de colores que se muestra a la derecha </td>
+<td> <center> <img src="imagenes/ru.png" width="50" heigth="50"> </td>
+</tr>
+<tr>
+<td> <center>  Ficha Modelos  </td>
+<td> <center> En esta ficha puedes elegir el color seleccionándolo desde el cuadro grande que se te muestra a la izquierda </td>
+<td> <center> <img src="imagenes/re.png" width="50" heigth="50"> </td>
+</tr>
+<tr>
+<td> <center>  Ficha Paletas  </td>
+<td> <center> Para aplicar un color de relleno uniforme a partir de una paleta, primero debes seleccionar en la barra desplegable Paleta:, la paleta de colores que precises.
+Luego mueve el deslizador de color para definir el rango de colores visualizado en el área de selección de colores.
+Haz clic en un color en el área de selección de colores. </td>
+<td> <center> <img src="imagenes/fp.png" width="50" heigth="50"> </td>
+<tr>
+<td> <center>  Uniforme Armonías  </td>
+<td> <center> Las armonías de colores sirven para obtener colores armoniosos, es decir colores que combinen entre sí armoniosamente. 
+De este modo puedes realizar un diseño con varios colores en forma acertada. </td>
+<td> <center> <img src="imagenes/c2.png" width="50" heigth="50"> </td>
+</tr>
+</tr>
+</table>
+ <br>
+ </br>
+<p align="right">
+<a href="C:\Users\la decima musa\Desktop\Mi pagina web\Mi pagina web.html">
+<img src="imagenes/l.png" width="250" heigth="250"> 
+</a> </font>
+</head>
+</body>
+</html>
